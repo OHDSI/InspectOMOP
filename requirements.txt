@@ -18,7 +18,7 @@ jaraco.classes==3.4.0
 jaraco.context==6.0.1
 jaraco.functools==4.0.2
 jedi==0.19.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 keyring==25.4.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
